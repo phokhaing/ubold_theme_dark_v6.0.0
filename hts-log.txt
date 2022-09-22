@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 22 Sep 2022 15:20:03 at https://coderthemes.com/ubold/layouts/creative/dashboard-2.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://coderthemes.com/ubold/layouts/creative/dashboard-2.html -O1 "C:\Users\khaing\OneDrive\Desktop\THEME\ubold_theme" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:22:33	Error: 	"Not Found" (404) at link https://coderthemes.com/ubold/layouts/creative/extras-profile.html (from https://coderthemes.com/ubold/layouts/creative/contacts-list.html)
+15:22:35	Error: 	"Not Found" (404) at link https://coderthemes.com/ubold/layouts/creative/cropped.jpg (from https://coderthemes.com/ubold/layouts/creative/forms-image-crop.html)
+15:22:35	Error: 	"Not Found" (404) at link https://coderthemes.com/ubold/layouts/creative/layouts-horizontal.html (from https://coderthemes.com/ubold/layouts/creative/layouts-two-column.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 32 seconds : 448 links scanned, 444 files written (33737204 bytes overall) [13331283 bytes received at 87705 bytes/sec], 24999758 bytes transferred using HTTP compression in 340 files, ratio 17%, 23.5 requests per connection
+(3 errors, 0 warnings, 0 messages)
